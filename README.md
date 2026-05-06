@@ -876,7 +876,3 @@ Built with modern web technologies:
 - [Lucide Icons](https://lucide.dev/) - Beautiful icons
 
 ---
-
-## 📄 License
-
-This project was created as an assignment for Traycer AI.
